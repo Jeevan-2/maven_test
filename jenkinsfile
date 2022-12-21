@@ -19,7 +19,7 @@ pipeline
                 {
                   try
                   {
-                     git 'https://github.com/Jeevan-2/maven_test.git'
+                     git 'https://github.com/keshavr21/maven_test.git'
                   }
                   catch(Exception e1)
                   {
